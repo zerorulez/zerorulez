@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="ful1e5 with halo"/>
+<img src="https://i.imgur.com/68mbMBg.gif" align="right" width="300" alt="ful1e5 with halo"/>
 
 ## Hello World! 👋
 I'm Lucas Ribeiro, a developer from São Paulo, Brazil.
@@ -14,5 +14,4 @@ I'm Lucas Ribeiro, a developer from São Paulo, Brazil.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [https://zerorulez.github.io](https://zerorulez.github.io/#/)
-- [ribeirolucasdev@gmail.com](ribeirolucasdev@gmail.com)
+- [Portfolio](https://zerorulez.github.io/#/)

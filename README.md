@@ -1,4 +1,4 @@
-<img src="https://gph.is/st/M2wGVbY" align="right" width="300" alt="ful1e5 with halo"/>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="300" alt="ful1e5 with halo"/>
 
 ## Hello World! 👋
 I'm Lucas Ribeiro, a developer from São Paulo, Brazil.

@@ -1,11 +1,18 @@
 <img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="ful1e5 with halo"/>
 
-# Hello World, my name is Lucas Ribeiro and im a developer from Brazil 👋
+## Hello World! 👋
+I'm Lucas Ribeiro, a developer from São Paulo, Brazil.
 
-💪 Pronouns: **He**/**Him**
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-💼 Full-time **Opensource ninja**
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
-🖌️ Linux content creator on **[pling.com](https://www.pling.com/u/Kaiz/)**
+## Skills
+- 👨‍💻 JavaScript, PHP, TypeScript
+- ⚙️ Vue, Laravel, React, Node, Angular
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, Mongo
 
-🤹 Playing with **Vim** & **Linux**.
+## Contact
+- [https://zerorulez.github.io](https://zerorulez.github.io/#/)
+- [ribeirolucasdev@gmail.com](ribeirolucasdev@gmail.com)

@@ -5,9 +5,9 @@ I'm Lucas Ribeiro, a developer from São Paulo, Brazil.
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, TypeScript
-- ⚙️ Vue, Laravel, React, Node, Angular, Next.js
+- ⚙️ Vue, React, Node, Next.js, Laravel, Angular
 - 👁️ SASS, CSS
-- 💽 MySQL, SQL, Mongo
+- 💽 SQL, NoSQL
 
 ## Contact
 - [Portfolio](https://zerorulez.github.io/#/)
